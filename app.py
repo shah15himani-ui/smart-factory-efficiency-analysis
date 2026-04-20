@@ -1,12 +1,6 @@
 
 ---
 
-# 🚀 STEP 2: Streamlit App (DEPLOYMENT LINK)
-
-## ✅ Create `app.py`
-
-Use this (clean + enough for submission):
-
 ```python
 import streamlit as st
 import pandas as pd
