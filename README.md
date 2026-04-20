@@ -23,5 +23,4 @@ This project analyzes smart factory machine data to evaluate:
 - Found correlation between vibration and errors
 - Detected inefficiencies in high-load operation mode
 
-## Author
-Your Name
+
