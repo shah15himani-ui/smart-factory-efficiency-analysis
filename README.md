@@ -23,4 +23,8 @@ This project analyzes smart factory machine data to evaluate:
 - Found correlation between vibration and errors
 - Detected inefficiencies in high-load operation mode
 
+  ## Links
+- Streamlit app: https://smart-factory-dashboard.streamlit.app/
+- Research Paper: https://docs.google.com/document/d/1p-RqP2bfrbzZ0dzE3AJU0-Ysns7NGyq0NnabQdvECJE/edit?tab=t.0
+
 
